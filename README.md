@@ -8,7 +8,7 @@ partir de uma lista de CEPs armazenada em uma planilha Excel.
 
 -   Lê CEPs de uma planilha Excel.
 -   Consulta o ViaCEP para obter os dados de cada CEP.
--   Coleta logradouro, bairro, localidade e UF.
+-   Coleta logradouro, bairro, localidade, UF e DDD.
 -   Salva os resultados em uma aba chamada `Dados` no arquivo Excel.
 
 ## Tecnologias utilizadas
