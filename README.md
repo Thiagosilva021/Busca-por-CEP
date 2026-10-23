@@ -47,9 +47,9 @@ esquerda.
 
 ## Como executar
 
-1.  Coloque `BuscaCEP.ipynb` e `CEP.xlsx` na mesma pasta.
+1.  Coloque `buscaCEP.py` e `CEP.xlsx` na mesma pasta.
 2.  Abra o códigoem um ambiente compatível.
-3.  Execute o código usando no terminal  `python .\buscaCEP.py`.
+3.  Execute o código no terminal usando o comando  `python .\buscaCEP.py`.
 4.  Após a execução, confira a aba `Dados` no arquivo `CEP.xlsx`.
 
 A aba `Dados` conterá as colunas:
