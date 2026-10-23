@@ -48,9 +48,8 @@ esquerda.
 ## Como executar
 
 1.  Coloque `BuscaCEP.ipynb` e `CEP.xlsx` na mesma pasta.
-2.  Abra o notebook no Jupyter Notebook, JupyterLab ou ambiente
-    compatível.
-3.  Execute a célula de código.
+2.  Abra o códigoem um ambiente compatível.
+3.  Execute o código usando no terminal  `python .\buscaCEP.py`.
 4.  Após a execução, confira a aba `Dados` no arquivo `CEP.xlsx`.
 
 A aba `Dados` conterá as colunas:
@@ -60,6 +59,7 @@ A aba `Dados` conterá as colunas:
 -   `Bairro`
 -   `Localidade`
 -   `UF`
+-   `DDD`
 
 Se a aba `Dados` já existir, ela será substituída pelos novos
 resultados. O arquivo precisa existir e não deve estar aberto no Excel
